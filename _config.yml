@@ -33,7 +33,7 @@ github_username:  vschmidt94
 
 
 # Build settings
-theme: minima
+remote_theme: vschmidt94/minima
 plugins:
   - jekyll-feed
 
