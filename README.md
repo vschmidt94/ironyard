@@ -1,4 +1,7 @@
-![](/ironyard/assets/images/logos/ironyard_logo.png)
+<div>
+<img src="/ironyard/assets/images/logos/ironyard_logo.png" alt="logo image" style="display: block; width: 50%; height:
+auto; margin-left: auto; margin-right: auto; padding-bottom: 16px">
+</div>
 
 The Iron Yard is a personal hobby blog mainly related to a 1966 Mustang convertible project car project. Actually, the
 blog itself is a meta-project: I am a software developer by day, and the blog itself is allowing me to learn a
