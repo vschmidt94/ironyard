@@ -19,3 +19,5 @@ Today:
 The video is a little fuzzy, but just think that the QuickJack is pretty cool…
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r-A5r7ZYPxA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include image_albums/d6_album.html %}
