@@ -17,7 +17,7 @@ teardown and rebuild. So, it's a lot more than I signed up for, but at same time
 
 ## About the Iron Yard name
 
-Years ago my oldest child and I signed up for a "Coding for kids" class held by a local boot camp / incubator called The
+Years ago my daughter and I signed up for a "Coding for Kids" class held by a local boot camp / incubator called The
 Iron Yard. Sadly, that Iron Yard eventually went out of business, but the name always stuck with me. We're living in
 Sacramento now, which has a rich history as one of the western railroad towns of the old west, and I enjoy looking at
 all the old trains down in Old Town by the river.
