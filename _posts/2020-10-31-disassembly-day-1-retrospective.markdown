@@ -34,7 +34,7 @@ What I’ve done to improve:
 4. Tested out different programs to annotate images
 5. Purchased some parts books with diagrams: Forel Publishing’s 1966 Mustang Parts & Body Illustrations
 
-[Forel 1966 Mustange Parts & Body
+[Forel 1966 Mustang Parts & Body
 Illustration](https://images-na.ssl-images-amazon.com/images/I/51njHF4oyvL._SX384_BO1,204,203,200_.jpg)
 
 Now that I have the book – hopefully I can include some part numbers in my notes for cross referencing – and also I’m going to try to be better at finding legitimate names for the parts.
