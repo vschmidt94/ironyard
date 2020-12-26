@@ -1,7 +1,11 @@
+---
+layout: page
+title: ToDo
+permalink: /todo/
+published: true
+---
 
-# Car ToDo List
-
-What's planned next
+What's planned next for car:
 
 1. Unhook clutch cable from transmission
 2. Unhook speedometer cable from transmission
@@ -12,7 +16,7 @@ What's planned next
 6. Remove rear axle & suspension
 7. Remove front suspension
 
-# Blog ToDo List
+## Todo for Blog
 
 Because I have a backlog of work here as well
 

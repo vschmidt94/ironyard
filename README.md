@@ -1,5 +1,5 @@
 <div>
-<img src="/ironyard/assets/images/logos/ironyard_logo.png" alt="logo image" style="display: block; width: 50%; height:
+<img src="/ironyard/assets/img/logos/ironyard_logo.png" alt="logo image" style="display: block; width: 50%; height:
 auto; margin-left: auto; margin-right: auto; padding-bottom: 16px">
 </div>
 

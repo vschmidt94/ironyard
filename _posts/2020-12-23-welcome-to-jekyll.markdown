@@ -14,3 +14,4 @@ I have hope it presents a much easier approach. My main goal here is to reduce t
 friction associated with adding a new post / new content. Wordpress _works_, but I end
 up fighting it rather than just getting my thoughts captured.
 
+{% include disqus.html %}
