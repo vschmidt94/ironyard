@@ -4,6 +4,7 @@ title:  "Mini-Review: QuickJack Hydraulic Lift"
 date:   2020-11-22 12:00:00 -0800
 categories: review
 ---
+
 There’s been a rash of catalytic converter thefts in my area, and even some in my neighborhood where catalytic
 converters are stolen right off the vehicle overnight – even while parked in a driveway. From what I understand,
 some cars can have the catalytic converter removed (ripped out) in a matter of minutes. Unfortunately, the 
