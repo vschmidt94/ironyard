@@ -16,10 +16,9 @@ What's planned next for car:
 6. Remove rear axle & suspension
 7. Remove front suspension
 
-## Todo for Blog
+## ToDo for Blog
 
 Because I have a backlog of work here as well
 
-1. Finish migrating content from WordPress
-2. Missing post on WordPress - recreate here. The day I removed driveshaft is missing.
-3. Move parts list here (maybe?) see if it works.
+1. Missing post on WordPress - recreate here. The day I removed driveshaft is missing.
+2. Move parts list here (maybe?) see if it works.
