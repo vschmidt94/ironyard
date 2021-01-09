@@ -23,5 +23,5 @@ Disassembly involved removing:
  * Glass out the top
  * Felt weatherstripping on either side
 
-{% include image_albmums/d3_album.html %}
+{% include image_albums/d3_album.html %}
 
