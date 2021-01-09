@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   a classic 1966 Ford Mustang Convertible. This is me trying to 
   leave a digital breadtrail for when it is time to put the car
   back together.
-baseurl: "ironyard" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vschmidt94.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vschmidt94
 
