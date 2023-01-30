@@ -21,8 +21,8 @@ It was well worth it!
 
 ### Day 2
 
-{% include image_albums/build_school_day_2.html %}
+{% include image_albums/build_school_day_2_pics.html %}
 
 ### Day 3
 
-{% include image_albums/build_school_day_3.html %}
+{% include image_albums/build_school_day_3_pics.html %}
