@@ -12,3 +12,17 @@ I finally made it up to Flint and took the class.
 It was well worth it!
 
 {% include image_albums/build_school_video.html %}
+
+## Photo albums
+
+### Day 1
+
+{% include image_albums/build_school_day_1_pics.html %}
+
+### Day 2
+
+{% include image_albums/build_school_day_2.html %}
+
+### Day 3
+
+{% include image_albums/build_school_day_3.html %}
