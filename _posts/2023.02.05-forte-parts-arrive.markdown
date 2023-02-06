@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "First Parts Arriving: Center Section, Hubs, Knuckles"
+date:   2023-02-03 12:00:00 -0800
+categories: cobra
+---
+
+# First parts starting to arrive
+
+The boxes have starting showing up:
+  * From Forte's Parts Connection:
+    * IRS Center Section - 3.55 gear ratio
+    * Ford hubs
+    * Rear IRS knuckle
+  * From Breeze Automotive:
+    * Cubby
+    * Batter box for moving to engine compartment
+    * Eccentric bushings for steering rack
+    * Fan Shroud
+    * Cowling
+  * From Factory Five Forum member:
+    * Drop Trunk Kit
+
+# And got to actually DO something!
+
+Now that I actually have some parts, I can legitimately start working on _something_!
+
+Today:
+  * Cut off the ear peice from LH / RH rear steering knuckle
+    * Used the recommended SawZall method with wood blade
+      * Cut much better with a drop of TapMagic every so often
+      * Cleaned up nice on the sander
+  * Removed wheel lugs from hub/spindle assembly.
+
+And that's as much as I can do right now, but a sense of getting started at least.
+
